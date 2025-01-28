@@ -6,6 +6,6 @@ Je code desormais depuis 4 ans, je travail desormais principalement sur PocketMi
 
 
 # 👀 - Contacte: 
-![discord]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.numerama.com%2Ftelecharger%2Fdiscord.html&psig=AOvVaw29MNNIIhCK048Cf2jI-l1f&ust=1738174707758000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDuwsGDmYsDFQAAAAAdAAAAABAE)
+![discord](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.numerama.com%2Ftelecharger%2Fdiscord.html&psig=AOvVaw29MNNIIhCK048Cf2jI-l1f&ust=1738174707758000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDuwsGDmYsDFQAAAAAdAAAAABAE](https://i.imgur.com/qGIQSGW.jpeg)
 
 discord: "juli3.php"
